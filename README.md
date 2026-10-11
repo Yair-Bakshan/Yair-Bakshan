@@ -13,14 +13,21 @@ I'm a student from Israel who loves understanding how computers work at the lowe
 
 ## Skills
 
+**Languages**
+
 [![Languages](https://skillicons.dev/icons?i=c,cs,py,js,cpp&theme=dark)](https://github.com/Yair-Bakshan?tab=repositories)
-![x86 Assembly](https://img.shields.io/badge/x86_Assembly-1f2328?style=for-the-badge)
+
+**Tools and Platforms**
 
 [![Tools](https://skillicons.dev/icons?i=unity,linux,ubuntu,raspberrypi&theme=dark)](https://github.com/Yair-Bakshan)
-![IDA](https://img.shields.io/badge/IDA-1f2328?style=for-the-badge)
-![GDB](https://img.shields.io/badge/GDB-1f2328?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+**Reverse Engineering and Embedded**
+
+![x86 Assembly](https://img.shields.io/badge/x86_Assembly-4A5568?style=flat-square)
+![IDA](https://img.shields.io/badge/IDA-4A5568?style=flat-square)
+![GDB](https://img.shields.io/badge/GDB-4A5568?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 I'm strongest in C and C#. I'm still growing in x86 Assembly, reverse engineering and Linux.
 
