@@ -9,7 +9,8 @@ I'm a student from Israel who loves understanding how computers work at the lowe
 | [**games-lib**](https://github.com/Yair-Bakshan/games-lib) | A small game library on top of SDL2, written in C | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
 | [**Astro-Leap**](https://github.com/Yair-Bakshan/Astro-Leap) | Arcade game: leap between rotating asteroids, chain combos, don't fall into the void | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
 | [**hand-mouse-controller**](https://github.com/Yair-Bakshan/hand-mouse-controller) | Move the mouse with your hand | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**toxic-time-first-gamejam**](https://github.com/Yair-Bakshan/toxic-time-first-gamejam) | My first game jam project | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
+| [**toxic-time**](https://github.com/Yair-Bakshan/toxic-time) | My first game jam project | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
+| [**ESP32-Projects**](https://github.com/Yair-Bakshan/ESP32-Projects) | Small ESP32 projects: button light, joystick controller, buzzer music and Simon Says | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 
 ## Skills
 
@@ -29,6 +30,6 @@ I'm a student from Israel who loves understanding how computers work at the lowe
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
-I'm strongest in C and C#. I'm still growing in x86 Assembly, reverse engineering and Linux.
+I'm strongest in C and C#. I'm growing mostly in binary exploitation and low-level programming, along with x86 Assembly, reverse engineering and Linux.
 
 I speak Hebrew and English.
