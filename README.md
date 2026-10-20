@@ -13,29 +13,32 @@ how a PC boots, how the CPU runs code, and how programs can be analyzed and brok
 
 ## Featured Projects
 
-### [32bit-bootloader](https://github.com/Yair-Bakshan/32bit-bootloader)
-
-x86 bootloader written from scratch. It starts in 16-bit real mode, loads a C kernel from disk, and switches the CPU to 32-bit protected mode.
-
-<p><img src="https://img.shields.io/badge/x86%20Assembly-4A5568?style=flat-square" /> <img src="https://img.shields.io/badge/NASM-4A5568?style=flat-square" /> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white" /></p>
-
-### [games-lib](https://github.com/Yair-Bakshan/games-lib)
-
-A small game library in C, built on top of SDL2. Includes a Flappy Bird demo made with the library.
-
-<p><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/SDL2-1D4979?style=flat-square" /></p>
-
-### [ESP32-Projects](https://github.com/Yair-Bakshan/ESP32-Projects)
-
-Small hardware projects on the ESP32: Simon Says, a buzzer that plays Für Elise, a controller, and a button light.
-
-<p><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" /></p>
-
-### [hand-mouse-controller](https://github.com/Yair-Bakshan/hand-mouse-controller)
-
-Control the mouse with your hand. Tracks hand movement from a webcam and moves the cursor.
-
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" /></p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Yair-Bakshan/32bit-bootloader">32bit-bootloader</a></h3>
+      <p>x86 bootloader written from scratch. It starts in 16-bit real mode, loads a C kernel from disk, and switches the CPU to 32-bit protected mode.</p>
+      <p><img src="https://img.shields.io/badge/x86%20Assembly-4A5568?style=flat-square" /> <img src="https://img.shields.io/badge/NASM-4A5568?style=flat-square" /> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Yair-Bakshan/games-lib">games-lib</a></h3>
+      <p>A small game library in C, built on top of SDL2. Includes a Flappy Bird demo made with the library.</p>
+      <p><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/SDL2-1D4979?style=flat-square" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Yair-Bakshan/ESP32-Projects">ESP32-Projects</a></h3>
+      <p>Small hardware projects on the ESP32: Simon Says, a buzzer that plays Für Elise, a controller, and a button light.</p>
+      <p><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Yair-Bakshan/hand-mouse-controller">hand-mouse-controller</a></h3>
+      <p>Control the mouse with your hand. Tracks hand movement from a webcam and moves the cursor.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" /></p>
+    </td>
+  </tr>
+</table>
 
 ## Other Projects
 
